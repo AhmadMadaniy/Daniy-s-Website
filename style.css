@@ -1,0 +1,85 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #FFDAB9;
+}
+
+p {
+    text-align: justify;
+}
+
+.custom-indigo {
+    color: #6610f2;;
+}
+
+.custom-indigo-300 {
+    color: #7a8bff;
+}
+
+.custom-navbar .nav-link {
+    color: #6610f2;
+}
+
+.custom-navbar .nav-link:hover {
+    color: #ffd700;
+}
+
+.navbar {
+    transition: all 1s;
+}
+
+.navbar-scrolled {
+    background-color: lightblue;
+    box-shadow: 3px 10px 5px rgba(0, 0, 0, 0.15);
+}
+
+.navbar-toggler {
+    border: none;
+    background: transparent;
+}
+
+.navbar-toggler img {
+    width: 30px;
+    height: 30px; 
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.barriecito-regular {
+    font-family: "Barriecito", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .barrio-regular {
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+h1 {
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2, h5 {
+    font-family: "Barriecito", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-family: "Barriecito", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
